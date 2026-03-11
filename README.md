@@ -1,13 +1,12 @@
-# MASHHOOD-ALI.-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fd8,50:a855f7,100:3b82f6&height=200&section=header&text=MASHHOOD%20ALI&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Learning%20by%20Building&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fd8,50:a855f7,100:3b82f6&height=210&section=header&text=MASHHOOD%20ALI&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=SE%20Student%20%40%20Jinnah%20University%20Karachi%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=16" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a855f7&center=true&vCenter=true&width=650&lines=Learning+Web+Development+One+Line+at+a+Time+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%E2%80%94+On+the+Journey!;Turning+Curiosity+Into+Code+%F0%9F%94%A5;Building+Projects+to+Learn+Faster+%F0%9F%9A%80;Every+Expert+Was+Once+a+Beginner+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a855f7&center=true&vCenter=true&width=650&lines=SE+Student+%40+Jinnah+University+Karachi+%F0%9F%8E%93;Learning+Web+Development+One+Line+at+a+Time+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%E2%80%94+On+the+Journey!;Turning+Curiosity+Into+Code+%F0%9F%94%A5;Building+Projects+to+Learn+Faster+%F0%9F%9A%80;Every+Expert+Was+Once+a+Beginner+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,11 +21,12 @@
 ---
 
 ## 🧑‍💻 About Me
-
 ```ts
 const mashhood = {
   name:        "Mashhood Ali",
   role:        "Aspiring Full-Stack Developer 🌱",
+  education:   "Software Engineering @ Jinnah University Karachi 🎓",
+  department:  "Department of Computing",
   location:    "Karachi, Pakistan 🇵🇰",
   github:      "https://github.com/MASHHOOD2019",
   linkedin:    "https://www.linkedin.com/in/mashhood-ali-514862296",
@@ -38,6 +38,7 @@ const mashhood = {
 };
 ```
 
+- 🎓 **Software Engineering student** at the Department of Computing, **Jinnah University Karachi**
 - 🌱 Currently **learning web development** — HTML, CSS, JavaScript & React
 - 💡 Passionate about **turning ideas into working projects**, even as a beginner
 - 🔨 Building small projects to **solidify my skills** and grow my portfolio
@@ -76,31 +77,53 @@ const mashhood = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Project 1</h3>
+      <h3 align="center">🌐 My Portfolio Website</h3>
       <p align="center">
-        <a href="https://github.com/MASHHOOD2019">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MASHHOOD2019&repo=MASHHOOD2019&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=94a3b8" />
-        </a>
+        <img src="https://img.shields.io/badge/Status-In%20Progress-a855f7?style=for-the-badge" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
       </p>
-      <p align="center"><i>Add your project description here!</i></p>
+      <p align="center"><i>A personal portfolio to showcase my learning journey and projects 🚀</i></p>
     </td>
     <td width="50%">
-      <h3 align="center">⚛️ Project 2</h3>
+      <h3 align="center">📝 To-Do List App</h3>
       <p align="center">
-        <a href="https://github.com/MASHHOOD2019">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MASHHOOD2019&repo=MASHHOOD2019&theme=dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff6fd8&text_color=94a3b8" />
-        </a>
+        <img src="https://img.shields.io/badge/Status-Learning%20Project-ff6fd8?style=for-the-badge" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      </p>
+      <p align="center"><i>A simple to-do list app built to practice DOM manipulation and JS logic ✅</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌦️ Weather App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-3b82f6?style=for-the-badge" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-REST-a855f7?style=flat-square" />
       </p>
-      <p align="center"><i>Add your project description here!</i></p>
+      <p align="center"><i>A weather app using a public API — my first React + API project 🌤️</i></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 Calculator</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      </p>
+      <p align="center"><i>A fully functional calculator — one of my first JavaScript projects 🧮</i></p>
     </td>
   </tr>
 </table>
@@ -127,7 +150,6 @@ const mashhood = {
 ---
 
 ## 🎯 My Learning Goals for 2025
-
 ```
 ✅ Get comfortable with HTML & CSS
 🔄 Master JavaScript fundamentals
