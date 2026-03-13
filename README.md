@@ -14,7 +14,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MASHHOOD2019&label=Profile+Views&color=a855f7&style=flat-square)](https://github.com/MASHHOOD2019)
 [![GitHub followers](https://img.shields.io/github/followers/MASHHOOD2019?label=Followers&style=flat-square&color=ff6fd8)](https://github.com/MASHHOOD2019?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mashhood-ali-514862296)
 
 </div>
 
