@@ -28,7 +28,6 @@ const mashhood = {
   department:  "Department of Computing",
   location:    "Karachi, Pakistan 🇵🇰",
   github:      "https://github.com/MASHHOOD2019",
-  linkedin:    "https://www.linkedin.com/in/mashhood-ali-514862296",
   email:       "mashhoodalisahito95@gmail.com",
   learning:    ["HTML", "CSS", "JavaScript", "React", "Node.js"],
   exploring:   ["Git & GitHub", "Responsive Design", "REST APIs"],
@@ -42,7 +41,7 @@ const mashhood = {
 - 💡 Passionate about **turning ideas into working projects**, even as a beginner
 - 🔨 Building small projects to **solidify my skills** and grow my portfolio
 - 🤝 Open to **collaborating, learning, and connecting** with fellow developers
-- 📬 Reach me at **[mashhoodalisahito95@gmail.com](mailto:mashhoodalisahito95@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/mashhood-ali-514862296)**
+- 📬 Reach me at **[mashhoodalisahito95@gmail.com](mailto:mashhoodalisahito95@gmail.com)**
 
 ---
 
@@ -148,7 +147,7 @@ const mashhood = {
 
 ---
 
-## 🎯 My Learning Goals for 2025
+## 🎯 My Learning Goals for 2026
 ```
 ✅ Get comfortable with HTML & CSS
 🔄 Master JavaScript fundamentals
@@ -166,7 +165,6 @@ const mashhood = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MASHHOOD2019-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MASHHOOD2019)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashhood%20Ali-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashhood-ali-514862296)
 [![Email](https://img.shields.io/badge/Email-mashhoodalisahito95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashhoodalisahito95@gmail.com)
 
 </div>
